@@ -1,0 +1,10 @@
+Mashup Stack is a software training company that provides skilled, job ready students to software companies. We provide
+full stack web developer courses for students to learn and become highly employable.
+Job oriented software training with placements for freshers.
+Complete web development courses.
+PHP
+JAVA
+PYTHON
+ANGULAR
+NODE.JS
+SOFTWARE TESTING
